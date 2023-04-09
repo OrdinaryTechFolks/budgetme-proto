@@ -1,2 +1,2 @@
 # GRPC
-Protos Definition accross OrdinaryTechFolks
+Protos Definition for OrdinaryTechFolks's BudgetMe

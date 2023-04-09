@@ -1,5 +1,5 @@
-name: otf_grpc
-description: Protos Definition accross OrdinaryTechFolks
+name: budgetme_proto
+description: Protos Definition for OrdinaryTechFolks's BudgetMe
 homepage: http://ordinarytechfolks.com
 
 environment:
